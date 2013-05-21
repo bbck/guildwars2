@@ -1,4 +1,4 @@
-# GW2TradingPost
+# Guildwars2
 
 TODO: Write a gem description
 
@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'gw2_trading_post'
+    gem 'guildwars2'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install gw2_trading_post
+    $ gem install guildwars2
 
 ## Usage
 
